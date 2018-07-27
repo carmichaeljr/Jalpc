@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, C, Java, Processing, PowerShell/Batch, Graphic Design
-percentage: 80, 90, 30, 100, 30, 50
+aspects: Python, C, Java, Processing, PowerShell/Batch, Graphic Design, (Neo)vim
+percentage: 80, 90, 30, 100, 30, 50, 40
