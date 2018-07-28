@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Started Learning to code
+    detail: Started learning to code
     i18n: company_a
   desc:
-    detail: Started teaching myself how to program trough codeacademy
+    detail: Started teaching myself how to program trough [Code Academys](https://www.codecademy.com/learn/learn-python) Python course
     i18n: company_a_desc
   date:
     detail: Dec. 2014
@@ -12,18 +12,47 @@
   job:
     detail: The beginning
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: icon-python
 
 - name:
-    detail: Company B
+    detail: Started learning C
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Started going through a beginners book about C
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Nov. 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: This is where I started learning how to program for real.
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: icon-c
+  
+- name:
+    detail: Started learning Java
+    i18n: company_b
+  desc:
+    detail: Having learned the beginnings of both Python and C, I was looking for something in the middle.
+    i18n: company_b_desc
+  date:
+    detail: Jul. 2017
+    i18n: company_b_date
+  job:
+    detail: This is where I started learning how to program for real.
+    i18n: company_b_job
+  icon: icon-java
+  
+- name:
+    detail: Started using Neovim
+    i18n: company_b
+  desc:
+    detail: The best text editor out there. Period.
+    i18n: company_b_desc
+  date:
+    detail: Mar. 2018
+    i18n: company_b_date
+  job:
+    detail: The command line and Neovim are the best tools a developer can posses.
+    i18n: company_b_job
+  icon: icon-shell
+
