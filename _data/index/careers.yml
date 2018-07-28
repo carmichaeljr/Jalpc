@@ -4,13 +4,13 @@
     detail: Started learning to code
     i18n: company_a
   desc:
-    detail: Started teaching myself how to program trough [Code Academys](https://www.codecademy.com/learn/learn-python) Python course
+    detail: Started teaching myself how to program trough [Code Academys](https://www.codecademy.com/learn/learn-python) Python course.
     i18n: company_a_desc
   date:
     detail: Dec. 2014
     i18n: company_a_date
   job:
-    detail: The beginning
+    detail: The beginning.
     i18n: company_a_job
   icon: icon-python
 
@@ -18,7 +18,7 @@
     detail: Started learning C
     i18n: company_b
   desc:
-    detail: Started going through a beginners book about C
+    detail: Started going through a beginners book about C.
     i18n: company_b_desc
   date:
     detail: Nov. 2016
@@ -38,7 +38,7 @@
     detail: Jul. 2017
     i18n: company_b_date
   job:
-    detail: This is where I started learning how to program for real.
+    detail: Trying out another language.
     i18n: company_b_job
   icon: icon-java
   
@@ -46,13 +46,13 @@
     detail: Started using Neovim
     i18n: company_b
   desc:
-    detail: The best text editor out there. Period.
+    detail: The command line and Neovim are the best tools a developer can posses.
     i18n: company_b_desc
   date:
     detail: Mar. 2018
     i18n: company_b_date
   job:
-    detail: The command line and Neovim are the best tools a developer can posses.
+    detail: The best text editor out there. Period.
     i18n: company_b_job
   icon: icon-shell
 
