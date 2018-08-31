@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-shell
     - name: icon-git
-  desc: This website serves as a place to showcase my finished programing projects. I don’t think any of these projects will be the next killer app…but there is always hope. Most of these projects are simple programs, to solve simple problems. All of these projects are available for download, for free. If you think you might find one useful, please give it a shot! Any and all feedback is welcome! # Describe yourself.
+  desc: Hello, I am Jack Carmichael, an application developer. In my spare time I write simple programs to solve things that annoy me or others. If you have any ideas for an application you would like, feel free to share them with me! # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
