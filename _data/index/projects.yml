@@ -1,14 +1,14 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Name Tag
+- name: NameTag
   i18n: jalpc
   gh_user: carmichaeljr
   repo: NameTag
   img: /static/assets/img/landing/jekyll.png
   desc: My first project that got used by someone other than myself. It is a tool for teachers to help learn students names.
   
-- name: Ubuntu Scanner
+- name: UbuntuScanner
   i18n: jalpc
   gh_user: carmichaeljr
   repo: UbuntuScanner
