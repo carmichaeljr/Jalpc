@@ -19,6 +19,6 @@
   i18n: google
   gh_user: carmichaeljr
   repo: ViewImage
-  //url: https://google.com
+  #url: https://google.com
   img: /static/assets/img/landing/google.png
   desc: A PowerShell alias that allows you to view images in a popup window with Vim like commands.
