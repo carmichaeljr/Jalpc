@@ -1,22 +1,24 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: NameTag
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+  gh_user: carmichaeljr
+  repo: NameTag
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: My first project that got used by someone other than myself. It is a tool for teachers to help learn students names.
 
-- name: Python
+- name: FileScanner
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: carmichaeljr
+  repo: FileScanner
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: An application that scans a given directory sorting the contents by file type.
 
-- name: Google
+- name: ViewImage
   i18n: google
-  url: https://google.com
+  gh_user: carmichaeljr
+  repo: ViewImage
+  //url: https://google.com
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: A PowerShell alias that allows you to view images in a popup window with Vim like commands.
